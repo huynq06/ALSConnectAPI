@@ -1,0 +1,9 @@
+D:\Project\ALSConnect\AlsConnect.Utilities\bin\Release\netcoreapp3.1\AlsConnect.Utilities.deps.json
+D:\Project\ALSConnect\AlsConnect.Utilities\bin\Release\netcoreapp3.1\AlsConnect.Utilities.dll
+D:\Project\ALSConnect\AlsConnect.Utilities\bin\Release\netcoreapp3.1\AlsConnect.Utilities.pdb
+D:\Project\ALSConnect\AlsConnect.Utilities\obj\Release\netcoreapp3.1\AlsConnect.Utilities.csproj.AssemblyReference.cache
+D:\Project\ALSConnect\AlsConnect.Utilities\obj\Release\netcoreapp3.1\AlsConnect.Utilities.AssemblyInfoInputs.cache
+D:\Project\ALSConnect\AlsConnect.Utilities\obj\Release\netcoreapp3.1\AlsConnect.Utilities.AssemblyInfo.cs
+D:\Project\ALSConnect\AlsConnect.Utilities\obj\Release\netcoreapp3.1\AlsConnect.Utilities.csproj.CoreCompileInputs.cache
+D:\Project\ALSConnect\AlsConnect.Utilities\obj\Release\netcoreapp3.1\AlsConnect.Utilities.dll
+D:\Project\ALSConnect\AlsConnect.Utilities\obj\Release\netcoreapp3.1\AlsConnect.Utilities.pdb

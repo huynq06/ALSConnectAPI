@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="3.1.0" />
+    <PackageReference Include="Microsoft.Extensions.Logging" Version="3.1.1" />
+    <PackageReference Include="Microsoft.Extensions.Logging.Abstractions" Version="3.1.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlsConnect.Application\AlsConnect.Application.csproj" />
+    <ProjectReference Include="..\AlsConnect.Data.EF\AlsConnect.Data.EF.csproj" />
+    <ProjectReference Include="..\AlsConnect.DataAccess\AlsConnect.DataAccess.csproj" />
+    <ProjectReference Include="..\AlsConnect.Data\AlsConnect.Data.csproj" />
+    <ProjectReference Include="..\AlsConnect.Infrastructure\AlsConnect.Infrastructure.csproj" />
+    <ProjectReference Include="..\AlsConnect.Utilities\AlsConnect.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>

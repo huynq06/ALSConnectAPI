@@ -1,0 +1,9 @@
+D:\Project\AlsConnect\AlsConnect.Infrastructure\bin\Debug\netcoreapp3.1\AlsConnect.Infrastructure.deps.json
+D:\Project\AlsConnect\AlsConnect.Infrastructure\bin\Debug\netcoreapp3.1\AlsConnect.Infrastructure.dll
+D:\Project\AlsConnect\AlsConnect.Infrastructure\bin\Debug\netcoreapp3.1\AlsConnect.Infrastructure.pdb
+D:\Project\AlsConnect\AlsConnect.Infrastructure\obj\Debug\netcoreapp3.1\AlsConnect.Infrastructure.csproj.AssemblyReference.cache
+D:\Project\AlsConnect\AlsConnect.Infrastructure\obj\Debug\netcoreapp3.1\AlsConnect.Infrastructure.AssemblyInfoInputs.cache
+D:\Project\AlsConnect\AlsConnect.Infrastructure\obj\Debug\netcoreapp3.1\AlsConnect.Infrastructure.AssemblyInfo.cs
+D:\Project\AlsConnect\AlsConnect.Infrastructure\obj\Debug\netcoreapp3.1\AlsConnect.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Project\AlsConnect\AlsConnect.Infrastructure\obj\Debug\netcoreapp3.1\AlsConnect.Infrastructure.dll
+D:\Project\AlsConnect\AlsConnect.Infrastructure\obj\Debug\netcoreapp3.1\AlsConnect.Infrastructure.pdb

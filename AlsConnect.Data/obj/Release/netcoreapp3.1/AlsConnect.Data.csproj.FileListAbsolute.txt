@@ -1,0 +1,12 @@
+D:\Project\ALSConnect\AlsConnect.Data\bin\Release\netcoreapp3.1\AlsConnect.Data.deps.json
+D:\Project\ALSConnect\AlsConnect.Data\bin\Release\netcoreapp3.1\AlsConnect.Data.dll
+D:\Project\ALSConnect\AlsConnect.Data\bin\Release\netcoreapp3.1\AlsConnect.Data.pdb
+D:\Project\ALSConnect\AlsConnect.Data\bin\Release\netcoreapp3.1\AlsConnect.Infrastructure.dll
+D:\Project\ALSConnect\AlsConnect.Data\bin\Release\netcoreapp3.1\AlsConnect.Infrastructure.pdb
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.csproj.AssemblyReference.cache
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.AssemblyInfoInputs.cache
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.AssemblyInfo.cs
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.csproj.CoreCompileInputs.cache
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.csproj.CopyComplete
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.dll
+D:\Project\ALSConnect\AlsConnect.Data\obj\Release\netcoreapp3.1\AlsConnect.Data.pdb

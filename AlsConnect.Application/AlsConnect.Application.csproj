@@ -1,0 +1,22 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="6.1.1" />
+    <PackageReference Include="CorePush" Version="3.0.10" />
+    <PackageReference Include="FirebaseAdmin" Version="2.2.0" />
+    <PackageReference Include="Microsoft.AspNetCore.Identity" Version="2.2.0" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
+    <PackageReference Include="System.IdentityModel.Tokens.Jwt" Version="6.13.1" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\AlsConnect.Data.EF\AlsConnect.Data.EF.csproj" />
+    <ProjectReference Include="..\AlsConnect.Data\AlsConnect.Data.csproj" />
+    <ProjectReference Include="..\AlsConnect.Utilities\AlsConnect.Utilities.csproj" />
+  </ItemGroup>
+
+</Project>
