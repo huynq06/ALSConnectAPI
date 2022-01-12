@@ -77,6 +77,8 @@ namespace AlsConnect.WebApi
             services.AddHttpClient<ApnSender>();
             var appSettingsSection = Configuration.GetSection("FcmNotification");
             services.Configure<FcmNotificationSetting>(appSettingsSection);
+            var emailSettingSection = Configuration.GetSection("EmailSetting");
+            services.Configure<EmailSettings>(emailSettingSection);
             services.AddScoped<IMapper>(sp => new Mapper(sp.GetRequiredService<AutoMapper.IConfigurationProvider>(), sp.GetService));
             services.AddTransient<UserManager<AppUser>, UserManager<AppUser>>();
             services.AddTransient<SignInManager<AppUser>, SignInManager<AppUser>>();
@@ -96,6 +98,7 @@ namespace AlsConnect.WebApi
             services.AddTransient<IProductCategoryService, ProductCategoryService>();
             //services.AddTransient<IVCTService, VCTService>();
             //services.AddTransient<IFLUPService, FLUPService>();
+            services.AddTransient<IEmailService, EmailService>();
             services.AddTransient<IFunctionService, FunctionService>();
             services.AddTransient<IProductService, ProductService>();
             services.AddTransient<IUserService, UserService>();
