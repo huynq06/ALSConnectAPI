@@ -34,6 +34,12 @@ namespace AlsConnect.Application.Implementations
                     Password = _emailSetting.Password
                 };
                 var user = await _userManager.FindByEmailAsync(emailModel.ReceiverId);
+                if(user == null)
+                {
+                    response.IsSuccess = false;
+                    response.Message = "Email Not exist";
+                    return response;
+                }
                 string resetToken = await _userManager.GeneratePasswordResetTokenAsync(user);
                 var result = await _userManager.ResetPasswordAsync(user, resetToken, "Abc@123");
                 string mail_smtp = settings.Mail_SMTP;// "mail.als.com.vn";
@@ -46,7 +52,7 @@ namespace AlsConnect.Application.Implementations
                 message.Subject = "ALS - Reset password request";
                 message.From = fromAddress;
                 message.To.Add(emailModel.ReceiverId);
-                message.Body = "You are receiving this message because you have requested resetting your password on the ALS Site.New password:";
+                message.Body = "You are receiving this message because you have requested resetting your password on the ALS Site.New password: Abc@123 .Please change password after login!";
                 //string[] mails = receive.Split(';');
                 //foreach (var item in mails)
                 //    if (!string.IsNullOrEmpty(item))
@@ -57,13 +63,13 @@ namespace AlsConnect.Application.Implementations
                 smtpClient.Credentials = new System.Net.NetworkCredential(settings.Sender, settings.Password);
                 smtpClient.Send(message);
                 response.IsSuccess = true;
-                response.Message = "Notification sent successfully";
+                response.Message = "Email sent successfully";
                 return response;
             }
             catch (Exception ex)
             {
                 response.IsSuccess = false;
-                response.Message = "Something went wrong";
+                response.Message = "Something went wrong " + ex.StackTrace;
                 return response;
             }
         }
