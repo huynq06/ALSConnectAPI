@@ -167,7 +167,7 @@ namespace AlsConnect.WebApi
 
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Swagger eShopSolution V1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "Swagger API CORE V1");
             });
             app.UseEndpoints(endpoints =>
             {

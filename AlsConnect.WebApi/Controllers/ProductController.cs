@@ -18,11 +18,11 @@ namespace AlsConnect.WebApi.Controllers
             _productService = productService;
             _productCategoryService = productCategoryService;
         }
-        [HttpGet]
-        public IActionResult Get()
-        {
-            var products = _productService.GetAll();
-            return Ok(products);
-        }
+        //[HttpGet]
+        //public IActionResult Get()
+        //{
+        //    var products = _productService.GetAll();
+        //    return Ok(products);
+        //}
     }
 }
