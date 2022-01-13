@@ -35,6 +35,7 @@ D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\www
 D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.js
 D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\dist\jquery.min.map
 D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\lib\jquery\LICENSE.txt
+D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\wwwroot\uploaded\images\20220113\ALS - Logo (không nền).png
 D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
 D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
 D:\Project\ALSConnect\AlsConnect.WebApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Production.json
