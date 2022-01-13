@@ -1,9 +1,0 @@
-D:\Project\ALSConnect\AlsConnect.DataAccess\bin\Release\netcoreapp3.1\AlsConnect.DataAccess.deps.json
-D:\Project\ALSConnect\AlsConnect.DataAccess\bin\Release\netcoreapp3.1\AlsConnect.DataAccess.dll
-D:\Project\ALSConnect\AlsConnect.DataAccess\bin\Release\netcoreapp3.1\AlsConnect.DataAccess.pdb
-D:\Project\ALSConnect\AlsConnect.DataAccess\obj\Release\netcoreapp3.1\AlsConnect.DataAccess.csproj.AssemblyReference.cache
-D:\Project\ALSConnect\AlsConnect.DataAccess\obj\Release\netcoreapp3.1\AlsConnect.DataAccess.AssemblyInfoInputs.cache
-D:\Project\ALSConnect\AlsConnect.DataAccess\obj\Release\netcoreapp3.1\AlsConnect.DataAccess.AssemblyInfo.cs
-D:\Project\ALSConnect\AlsConnect.DataAccess\obj\Release\netcoreapp3.1\AlsConnect.DataAccess.csproj.CoreCompileInputs.cache
-D:\Project\ALSConnect\AlsConnect.DataAccess\obj\Release\netcoreapp3.1\AlsConnect.DataAccess.dll
-D:\Project\ALSConnect\AlsConnect.DataAccess\obj\Release\netcoreapp3.1\AlsConnect.DataAccess.pdb

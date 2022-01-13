@@ -1,9 +1,0 @@
-D:\Project\AlsConnect\AlsConnect.Utilities\bin\Debug\netcoreapp3.1\AlsConnect.Utilities.deps.json
-D:\Project\AlsConnect\AlsConnect.Utilities\bin\Debug\netcoreapp3.1\AlsConnect.Utilities.dll
-D:\Project\AlsConnect\AlsConnect.Utilities\bin\Debug\netcoreapp3.1\AlsConnect.Utilities.pdb
-D:\Project\AlsConnect\AlsConnect.Utilities\obj\Debug\netcoreapp3.1\AlsConnect.Utilities.csproj.AssemblyReference.cache
-D:\Project\AlsConnect\AlsConnect.Utilities\obj\Debug\netcoreapp3.1\AlsConnect.Utilities.AssemblyInfoInputs.cache
-D:\Project\AlsConnect\AlsConnect.Utilities\obj\Debug\netcoreapp3.1\AlsConnect.Utilities.AssemblyInfo.cs
-D:\Project\AlsConnect\AlsConnect.Utilities\obj\Debug\netcoreapp3.1\AlsConnect.Utilities.csproj.CoreCompileInputs.cache
-D:\Project\AlsConnect\AlsConnect.Utilities\obj\Debug\netcoreapp3.1\AlsConnect.Utilities.dll
-D:\Project\AlsConnect\AlsConnect.Utilities\obj\Debug\netcoreapp3.1\AlsConnect.Utilities.pdb
